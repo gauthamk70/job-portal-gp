@@ -12,7 +12,7 @@ const LandingPage = () => {
           <a href="#companies" className="hover:text-blue-600 transition">Companies</a>
           <a href="#about" className="hover:text-blue-600 transition">About</a>
         </div>
-        <Link to="/home">
+        <Link to="/auth">
           <button className="bg-slate-100 px-6 py-2 rounded-full font-semibold hover:bg-slate-200 transition">
             Login
           </button>
